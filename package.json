@@ -1,0 +1,26 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "for exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack-dev-server --port 3000 --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyunxin/react-demo.git"
+  },
+  "author": "yangyunxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyunxin/react-demo/issues"
+  },
+  "homepage": "https://github.com/yangyunxin/react-demo#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
