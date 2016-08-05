@@ -1,0 +1,10 @@
+{
+  todo: {
+    items: [
+      {
+        message: "Finish Redux blog post...",
+        completed: false
+      }
+    ]
+  }
+}
